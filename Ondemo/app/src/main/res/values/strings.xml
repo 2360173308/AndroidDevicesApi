@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnDemo</string>
+    <string name="app_install">静默安装</string>
+    <string name="app_uninstall">静默卸载</string>
+    <string name="app_sc">根据包名关闭进程（关闭其他app）</string>
+    <string name="app_phone_root">重启设备</string>
+    <string name="app_screen">截屏</string>
+    <string name="app_port_reset">端口重新定向</string>
+    <string name="app_time">命令行修改系统时间</string>
+    
+</resources>
